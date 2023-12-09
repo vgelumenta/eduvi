@@ -1,0 +1,63 @@
+[
+    {
+        "id" : 1,
+        "title" : "Picture of Dorian Gray",
+        "price" : 45000,
+        "cover" : "src/assets/images/imagebook (1).jpg"
+    },
+    {
+        "id" : 2,
+        "title" : "Company of One",
+        "price" : 60000,
+        "cover" : "src/assets/images/imagebook (2).jpg"
+    },
+    {
+        "id" : 3,
+        "title" : "Milk and Honey",
+        "price" : 55000,
+        "cover" : "src/assets/images/imagebook (3).jpg"
+    },
+    {
+        "id" : 4,
+        "title" : "Narnia",
+        "price" : 75000,
+        "cover" : "src/assets/images/imagebook (4).jpg"
+    },
+    {
+        "id" : 5,
+        "title" : "How Inovation Works",
+        "price" : 80000,
+        "cover" : "src/assets/images/imagebook (5).jpg"
+    },
+    {
+        "id" : 6,
+        "title" : "Psychology of Money",
+        "price" : 85000,
+        "cover" : "src/assets/images/imagebook (6).jpg"
+    },
+    {
+        "id" : 7,
+        "title" : "Meet Photography",
+        "price" : 74000,
+        "cover" : "src/assets/images/imagebook (7).jpg"
+    },
+    {
+        "id" : 8,
+        "title" : "The Adventure Life",
+        "price" : 90000,
+        "cover" : "src/assets/images/imagebook (8).png"
+    },
+    {
+        "id" : 9,
+        "title" : "Book Cover Mockup",
+        "price" : 120000,
+        "cover" : "src/assets/images/imagebook (9).png"
+    },
+    {
+        "id" : 10,
+        "title" : "Different Winter",
+        "price" : 65000,
+        "cover" : "src/assets/images/imagebook (10).jpg"
+    }
+
+]

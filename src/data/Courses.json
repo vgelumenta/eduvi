@@ -1,0 +1,83 @@
+[
+    {
+        "id" : 1,
+        "title" : "Phyton",
+        "price" : 45000,
+        "for"   : "High School",
+        "category" : "Computer",
+        "cover" : "src/assets/images/img_image_103x160.png"
+    },
+    {
+        "id" : 2,
+        "title" : "Java",
+        "price" : 60000,
+        "for"   : "High School",
+        "category" : "Computer",
+        "cover" : "src/assets/images/img_image_9.png"
+    },
+    {
+        "id" : 3,
+        "title" : "UI/UX",
+        "price" : 55000,
+        "for"   : "High School",
+        "category" : "Computer",
+        "cover" : "src/assets/images/img_image_7.png"
+    },
+    {
+        "id" : 4,
+        "title" : "Algebra",
+        "price" : 75000,
+        "for"   : "High School",
+        "category" : "Science",
+        "cover" : "src/assets/images/img_image_4.png"
+    },
+    {
+        "id" : 5,
+        "title" : "Data Science",
+        "price" : 80000,
+        "for"   : "College",
+        "category" : "Computer",
+        "cover" : "src/assets/images/img_image_4.png"
+    },
+    {
+        "id" : 6,
+        "title" : "Biology",
+        "price" : 70000,
+        "for"   : "High School",
+        "category" : "Science",
+        "cover" : "src/assets/images/img_image_4.png"
+    },
+    {
+        "id" : 7,
+        "title" : "Physics",
+        "price" : 80000,
+        "for"   : "High School",
+        "category" : "Science",
+        "cover" : "src/assets/images/img_image_6.png"
+    },
+    {
+        "id" : 8,
+        "title" : "Chemistry",
+        "price" : 70000,
+        "for"   : "High School",
+        "category" : "Science",
+        "cover" : "src/assets/images/img_image_103x160.png"
+    },
+    {
+        "id" : 9,
+        "title" : "Geology",
+        "price" : 80000,
+        "for"   : "High School",
+        "category" : "Geography",
+        "cover" : "src/assets/images/img_image_6.png"
+    },
+    {
+        "id" : 10,
+        "title" : "Astronomy",
+        "price" : 70000,
+        "for"   : "High School",
+        "category" : "Science",
+        "cover" : "src/assets/images/img_image_6.png"
+    }
+
+]
